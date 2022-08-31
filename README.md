@@ -4,7 +4,7 @@ C# Windows desktop applications
 # Skill used : C#, .NET, MYSQL
 
 # Functionalities :- 
-System user able to add new gas stock to existing stock, and the new stock will be added into the stock table in DB./n
+System user able to add new gas stock to existing stock, and the new stock will be added into the stock table in DB.\n
 System user able to register customers and store them in a customer table in the DB.
 System will generate an "Order No" and place customers in a gas queue.
 System user able to see available gas stocks on the system interface.
